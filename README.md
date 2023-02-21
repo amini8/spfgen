@@ -1,0 +1,2 @@
+# spfgen
+SPF record generator
